@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288893842891",
+    "firebase_url": "https://work-india-82317.firebaseio.com",
+    "project_id": "work-india-82317",
+    "storage_bucket": "work-india-82317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288893842891:android:aad7105b7287f4f6e2724e",
+        "android_client_info": {
+          "package_name": "com.example.workindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288893842891-kvt2b9fbnjd2gurl7l0cegd5isg49gks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workindia",
+            "certificate_hash": "26eaa407f1dc9f89d78507218ef5c39ac21ad26c"
+          }
+        },
+        {
+          "client_id": "288893842891-3fme489ou75p77rpavasibfba7jgf31c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzs9cltlzo8IYeCckNJsheivkZr_EFQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288893842891-3fme489ou75p77rpavasibfba7jgf31c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
